@@ -1,4 +1,6 @@
 {
+	"author":"Manish",
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -14,9 +16,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author":{
-	"name":"Manish Kumar"
-	}
+	
 	
 	
 	
