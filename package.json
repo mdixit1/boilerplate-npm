@@ -1,6 +1,7 @@
 {
-	"author": "Manish Kumar",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Manish Kumar",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
