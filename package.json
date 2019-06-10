@@ -3,6 +3,7 @@
 	"author":"Manish",
 	"version":"1.2",
 	"name": "fcc-learn-npm-package-json",
+	"keywords":["descriptive","related","words"].
 	"dependencies": {
 		"express": "^4.14.0"
 	},
