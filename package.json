@@ -2,9 +2,6 @@
 {
 	
 	"name": "fcc-learn-npm-package-json",
-	"author":"Manish",
-	"version":"1.2",
-	"keywords":["descriptive","related","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -20,7 +17,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	
-	
+	"author":""
 	
 	
 }
